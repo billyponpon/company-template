@@ -39,34 +39,24 @@
 
               :imgURL (image url)
             -->
-            <Service imgURL="/img/icon1.png" title="Service Title">
-              <template
-                v-slot:content
-              >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus excepturi quisquam temporibus non nisi doloribus cumque cum molestiae odio velit ratione perspiciatis assumenda numquam quam porro, sed quasi quia possimus?</template>
+            <Service imgURL="/img/icon1.png" title="Lightbulb">
+              <template v-slot:content>An idea born by the love for Doraemon.</template>
             </Service>
 
-            <Service imgURL="/img/icon2.png" title="Service Title">
-              <template
-                v-slot:content
-              >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus excepturi quisquam temporibus non nisi doloribus cumque cum molestiae odio velit ratione perspiciatis assumenda numquam quam porro, sed quasi quia possimus?</template>
+            <Service imgURL="/img/icon2.png" title="Litsen">
+              <template v-slot:content>Listening to the Doraemon fan feedback.</template>
             </Service>
 
-            <Service imgURL="/img/icon3.png" title="Service Title">
-              <template
-                v-slot:content
-              >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus excepturi quisquam temporibus non nisi doloribus cumque cum molestiae odio velit ratione perspiciatis assumenda numquam quam porro, sed quasi quia possimus?</template>
+            <Service imgURL="/img/icon3.png" title="Connection">
+              <template v-slot:content>Connect with the Doraemon fans</template>
             </Service>
 
-            <Service imgURL="/img/icon4.png" title="Service Title">
-              <template
-                v-slot:content
-              >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus excepturi quisquam temporibus non nisi doloribus cumque cum molestiae odio velit ratione perspiciatis assumenda numquam quam porro, sed quasi quia possimus?</template>
+            <Service imgURL="/img/icon4.png" title="Brain">
+              <template v-slot:content>More ideas born by Doraemon fans.</template>
             </Service>
 
-            <Service imgURL="/img/icon4.png" title="Service Title">
-              <template
-                v-slot:content
-              >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus excepturi quisquam temporibus non nisi doloribus cumque cum molestiae odio velit ratione perspiciatis assumenda numquam quam porro, sed quasi quia possimus?</template>
+            <Service imgURL="/img/icon4.png" title="Big Brain">
+              <template v-slot:content>Be brainy, be funny.</template>
             </Service>
           </template>
         </ServiceContent>
@@ -93,21 +83,21 @@
             />
 
             <Project
-              imgURL="https://img.alicdn.com/imgextra/i3/2585692843/O1CN01plbbEB1Ws8UrY7yMI_!!2585692843.jpg"
+              imgURL="https://img.alicdn.com/imgextra/i4/2585692843/O1CN019U06dn1Ws8Ur34Ctw_!!2585692843.jpg"
               name="Project Name"
               project="Project Type"
               projectURL="https://github.com/billyponpon/company-template"
             />
 
             <Project
-              imgURL="https://img.alicdn.com/imgextra/i3/2585692843/O1CN01plbbEB1Ws8UrY7yMI_!!2585692843.jpg"
+              imgURL="https://img.alicdn.com/imgextra/i3/2585692843/O1CN018VWot71Ws8UsAl3s3_!!2585692843.jpg"
               name="Project Name"
               project="Project Type"
               projectURL="https://github.com/billyponpon/company-template"
             />
 
             <Project
-              imgURL="https://img.alicdn.com/imgextra/i3/2585692843/O1CN01plbbEB1Ws8UrY7yMI_!!2585692843.jpg"
+              imgURL="https://img.alicdn.com/imgextra/i4/2585692843/O1CN01UNl7SD1Ws8UpTmEMA_!!2585692843.jpg"
               name="Project Name"
               project="Project Type"
               projectURL="https://github.com/billyponpon/company-template"
